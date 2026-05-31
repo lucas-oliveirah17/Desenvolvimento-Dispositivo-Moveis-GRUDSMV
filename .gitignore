@@ -1,0 +1,33 @@
+# Dependências do Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Diretórios e arquivos temporários do Expo
+.expo/
+dist/
+web-build/
+
+# Variáveis de ambiente e chaves
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Builds e artefatos gerados
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+
+# Arquivos do TypeScript
+out/
+build/
+
+# Logs e arquivos de debug de editores/sistemas (VS Code, macOS, Windows)
+.vscode/
+.DS_Store
+Thumbs.db
+*.log
